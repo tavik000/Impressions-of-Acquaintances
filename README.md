@@ -30,7 +30,7 @@
 ![scr01](https://github.com/tavik000/Impressions-of-Acquaintances/raw/key_xml_ver/Screenshots/scr01.jpg)
 -  点击 Clone or download => Download ZIP
 -  解压，用记事本或者其他文本编辑器打开 `index.html`；`app.js`;`acquaintance.xml`.
-	- `index.html`里面，每多加一个人就要多复制一块
+- `index.html`里面，每多加一个人就要多复制一块
 ```
 <tr class="person">
 			<td>
