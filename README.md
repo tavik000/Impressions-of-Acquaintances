@@ -23,13 +23,13 @@
 6. 我是填好以后用 Chrome 的 FireShot 插件进行截图的
 7. 祝大家使用愉快
 
--
+
 ### 使用方法（key麻烦版）：
 -  下载 Release 就行：[熟人（部分）印象表HTML版 v1.0](https://github.com/gl14916/Impressions-of-Acquaintances/releases/download/v1.0/Impressions-of-Acquaintances-v1.0.zip)
 -  解压，用记事本或者其他文本编辑器打开 `index.html`；`app.js`;`acquaintance.xml`.
 	- `index.html`里面，每多加一个人就要多复制一块
-~~~~
-<tr class="person">
+
+    <tr class="person">
 			<td>
 				<img class="avatar userid" src="" alt="...">
 			</td>
@@ -40,7 +40,7 @@
 				<span class="after"></span>
 			</td>
 </tr>    
-		~~~~
+
 	- `app.js`里面第三行；
 ```
 var person = [1,2];  //有多少人这里就要数到多少
