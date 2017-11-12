@@ -28,7 +28,7 @@
 -  下载 Release 就行：[熟人（部分）印象表HTML版 v1.0](https://github.com/gl14916/Impressions-of-Acquaintances/releases/download/v1.0/Impressions-of-Acquaintances-v1.0.zip)
 -  解压，用记事本或者其他文本编辑器打开 `index.html`；`app.js`;`acquaintance.xml`.
 	- `index.html`里面，每多加一个人就要多复制一块
-
+<code>
     <tr class="person">
 			<td>
 				<img class="avatar userid" src="" alt="...">
@@ -39,7 +39,8 @@
 			<td>
 				<span class="after"></span>
 			</td>
-</tr>    
+</tr>  
+</code>  
 
 	- `app.js`里面第三行；
 ```
