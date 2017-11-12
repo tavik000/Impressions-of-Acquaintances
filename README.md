@@ -53,6 +53,15 @@ beforeimg: 认识前的印象图片<br>
 before: 评论图片<br>
 after: 认识后的印象文字描述<br>
 图片要下载到images里面，将对应路径名放到对应的图片标签。<br>
-有多少人就有多少个`<person>...</person>`
+有多少人就有多少个`<person>...</person>`<br>
+例如
+```
+	 <person>
+            <userid>images/01_0.jpg</userid>
+            <beforeimg>images/01_1.jpg</beforeimg>
+            <before>认识前的印象</before>
+            <after>认识后的印象</after>
+     </person>
+```
 - 第 101 行用个人微博 ID 或者昵称替换 `[微博ID / 昵称]`，作为填表人信息
 - 祝大家辛苦过后有收获
