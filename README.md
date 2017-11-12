@@ -26,6 +26,8 @@
 -----
 
 ### 使用方法（key麻烦版）：
+-  效果图：<br>
+![scr01](https://github.com/tavik000/Impressions-of-Acquaintances/tree/raw/key_xml_ver/Screenshots/scr01.jpg)
 -  点击 Clone or download => Download ZIP
 -  解压，用记事本或者其他文本编辑器打开 `index.html`；`app.js`;`acquaintance.xml`.
 	- `index.html`里面，每多加一个人就要多复制一块
