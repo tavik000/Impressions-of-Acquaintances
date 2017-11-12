@@ -29,7 +29,7 @@
 -  解压，用记事本或者其他文本编辑器打开 `index.html`；`app.js`;`acquaintance.xml`.
 	- `index.html`里面，每多加一个人就要多复制一块
 ```
-    <tr class="person">
+<tr class="person">
 			<td>
 				<img class="avatar userid" src="" alt="...">
 			</td>
@@ -42,16 +42,16 @@
 </tr>  
 ```  
 
-	- `app.js`里面第三行；
+- `app.js`里面第三行；
 ```
 var person = [1,2];  //有多少人这里就要数到多少
 ```
-	- `acquaintance.xml`里面<br>
+- `acquaintance.xml`里面<br>
 	userid: 人物头像<br>
 beforeimg: 认识前的印象图片<br>
 before: 评论图片<br>
 after: 认识后的印象文字描述<br>
 图片要下载到images里面，将对应路径名放到对应的图片标签。<br>
 有多少人就有多少个`<person>...</person>`
-	- 第 101 行用个人微博 ID 或者昵称替换 `[微博ID / 昵称]`，作为填表人信息
-	- 祝大家辛苦过后有收获
+- 第 101 行用个人微博 ID 或者昵称替换 `[微博ID / 昵称]`，作为填表人信息
+- 祝大家辛苦过后有收获
