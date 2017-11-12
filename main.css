@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    width: 500px;
+    margin: auto;
+}
+
+table {
+    border: 2px solid grey;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th.title {
+    color: white;
+    background-color: black;
+    height: 50px;
+}
+
+th {
+    border: 1px solid grey;
+}
+
+td {
+    border: 1px solid grey;
+    padding: 5px;
+    height: 100px;
+    text-align: center;
+}
+
+img {
+    max-height: 80px;
+    max-width: 100px;
+}
+
+img.avatar {
+    height: 80px;
+    width: 80px;
+}
+
+th.userid {
+    width: 25%;
+    text-align: center;
+}
+
+br {
+    margin: 2px;
+}
+
+th.before, th.after {
+    width: 37.5%;
+}
+
+th.author {
+    font-weight: lighter;
+    text-align: right;
+    padding: 10px;
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!--
+userid: 人物头像
+beforeimg: 认识前的印象图片
+before: 评论图片
+after: 认识后的印象文字描述
+
+有多少人就有多少个<person>...</person>
+-->
+
+<acquaintance>
+      <person>
+            <userid>images/01_0.jpg</userid>
+            <beforeimg>images/01_1.jpg</beforeimg>
+            <before>认识前的印象</before>
+            <after>认识后的印象</after>
+      </person>
+      <person>
+            <userid>images/01_0.jpg</userid>
+            <beforeimg>images/01_1.jpg</beforeimg>
+            <before>认识前的印象</before>
+            <after>认识后的印象</after>
+      </person>
+
+</acquaintance>
